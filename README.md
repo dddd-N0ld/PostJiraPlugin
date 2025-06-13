@@ -2,6 +2,8 @@
 # PostJiraPlugin
 java8 编译jar，有些报错去不掉（搞不懂），不影响使用  by N0ld
 
+**https://github.com/dddd-N0ld/PostJiraPlugin/releases/download/jar/PostJiraPlugin.jar**
+
 哥斯拉PostJiraPlugin后渗透插件 addAdminUser updatePassword EnumAllUser makeToken ........
 
 ## 功能简介
