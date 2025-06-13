@@ -24,16 +24,16 @@ java8 编译jar，有些报错去不掉（搞不懂），不影响使用  by N0l
 
 ### MakeToken
 
-![](images/makeToken.PNG)
+![](makeToken.PNG)
 
 ### EnumAllUser
 
-![](images/EnumAllUser.PNG)
+![](EnumAllUser.PNG)
 
 ### AddAdminUser
 
-![](images/addAdminUser.PNG)
+![](addAdminUser.PNG)
 
 ### UpdatePassword
 
-![](images/updatePassword.PNG)
+![](updatePassword.PNG)
